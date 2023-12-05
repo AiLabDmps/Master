@@ -16,7 +16,7 @@ https://youtu.be/x8p5Gs-V49o?si=8wc3236lw3XcULXU
 11. gluegun
     
 ## Status Report
-- [] Programming
-- [] modeling
-- [] final test
-- [] All set
+- [ ] Programming
+- [ ] modeling
+- [ ] final test
+- [ ] All set
