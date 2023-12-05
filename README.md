@@ -1,5 +1,8 @@
 # Vedio
+## For building model only
 https://youtu.be/x8p5Gs-V49o?si=8wc3236lw3XcULXU
+## for programs and other but not a sanitizer
+https://youtu.be/uJ9r2lP-ARA?si=Ik8-24G703Vp2OfU
 
 ## components required
 
