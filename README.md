@@ -1,6 +1,11 @@
-### Arduino direct download
-https://downloads.arduino.cc/arduino-ide/arduino-ide_2.2.1_Windows_64bit.msi
-### Processing software direct download
-https://github.com/processing/processing4/releases/download/processing-1293-4.3/processing-4.3-windows-x64.zip
+# Vedio
+https://youtu.be/x8p5Gs-V49o?si=8wc3236lw3XcULXU
 
-
+## components required
+```js
+1. IR sensor
+2. 5V relay
+3. red and green leds with 220 ahms resistor
+4. 5v dc motor pump
+5. 5v ac dc adapter / 5v battery for power
+```
