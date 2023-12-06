@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=6hASapzMa-o
 3. DC pump
 4. jumper wires
 5. red and green leds with 220 ahms resistor
-6. 5v dc motor pump
+6. 5v/12v dc motor pump
 7. 5v ac dc adapter / 5v battery for power
 8. switch
 9. jumper wires
