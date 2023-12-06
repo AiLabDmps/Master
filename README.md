@@ -1,22 +1,24 @@
 # Vedio
 ## For building model only
 https://youtu.be/x8p5Gs-V49o?si=8wc3236lw3XcULXU
-## for programs and other but not a sanitizer
-https://youtu.be/uJ9r2lP-ARA?si=Ik8-24G703Vp2OfU
+## For Program
+https://www.youtube.com/watch?v=6hASapzMa-o
 
 ## components required
 
-1. IR sensor
-2. 5V relay
-3. red and green leds with 220 ahms resistor
-4. 5v dc motor pump
-5. 5v ac dc adapter / 5v battery for power
-6. switch
-7. jumper wires
-8. plastic container for sanitizer
-9. tube
+1. Arduino
+2. Ultra Sonic sensor
+3. DC pump
+4. jumper wires
+5. red and green leds with 220 ahms resistor
+6. 5v dc motor pump
+7. 5v ac dc adapter / 5v battery for power
+8. switch
+9. jumper wires
 10. form board for body
 11. gluegun
+12. plastic container for sanitizer
+13. tube
     
 ## Status Report
 - [ ] Programming
